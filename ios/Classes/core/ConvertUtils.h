@@ -6,7 +6,7 @@
 
 @class PMAssetPathEntity;
 @class PMAssetEntity;
-
+@class PHAsset;
 
 @interface ConvertUtils : NSObject
 
